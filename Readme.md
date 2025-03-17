@@ -90,7 +90,7 @@
 
 ## Authors
 
-+ wbello [Gitea](https://zone01normandie.org/git/wbello) 
++ wbello [GitHub](https://github.com/LuffydouSenpai) 
 
 ## Licence
 
