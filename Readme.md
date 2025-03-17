@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my Go-Reloaded project</h1>
-<br><br>
-<h2>first project in the Edu01 imperative section</h2>
+<br>
+<p>first project in the Edu01 imperative section</p>
+<br>
 
 ## Table of contents
 
