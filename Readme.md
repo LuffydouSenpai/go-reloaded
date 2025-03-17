@@ -1,7 +1,10 @@
 <h1 align="center">Welcome to my Go-Reloaded project</h1>
+<br><br>
+<h2>first project in the Edu01 imperative section</h2>
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Language](#language)
 - [Code installation](#code-installation)
 - [What is the code for?](#what-is-the-code-for)
